@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1583474417 source:e:\lab2var5\main.cpp
+	<iostream>
+	"product.h"
+
+1583939617 source:e:\lab2var5\product.cpp
+	"product.h"
+
+1583939732 e:\lab2var5\product.h
+	<iostream>
+	<cstring>
+
+1584284637 source:c:\users\grini\yandexdisk-grinimaev1\lab2var5\main.cpp
+	<iostream>
+	"product.h"
+
+1584284661 c:\users\grini\yandexdisk-grinimaev1\lab2var5\product.h
+	<iostream>
+	<cstring>
+
+1584284628 source:c:\users\grini\yandexdisk-grinimaev1\lab2var5\product.cpp
+	"product.h"
+
+1585310335 source:c:\users\grini\downloads\lab2var5\lab2var5\product.cpp
+	"product.h"
+
+1585306915 c:\users\grini\downloads\lab2var5\lab2var5\product.h
+	<iostream>
+	<cstring>
+
+1585310610 source:c:\users\grini\downloads\lab2var5\lab2var5\main.cpp
+	<iostream>
+	"product.h"
+	<stdlib.h>
+
